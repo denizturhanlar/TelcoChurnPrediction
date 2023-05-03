@@ -20,47 +20,47 @@ The project's ultimate product is a predictive model that may be used to spot co
 # Business Problem
 It is expected to develop a machine learning model that can predict customers who will leave the company.
 
-#Story of Dataset
+# Story of Dataset
 In this dataset we have 21 variables ,7043 observation and 977.5 KB 
 
-CustomerId : Customer ID
+- CustomerId : Customer ID
 
-Gender : Gender of the customer
+- Gender : Gender of the customer
 
-SeniorCitizen : 	Whether the customer is a senior citizen or not (1, 0)
+- SeniorCitizen : 	Whether the customer is a senior citizen or not (1, 0)
 
-Partner :	Whether the customer has a partner or not (Yes, No)
+- Partner :	Whether the customer has a partner or not (Yes, No)
 
-Dependents : Whether the customer has dependents or not (Yes, No)
+- Dependents : Whether the customer has dependents or not (Yes, No)
 
-tenure :	Number of months the customer has stayed with the company
+- tenure :	Number of months the customer has stayed with the company
 
-PhoneService: Whether the customer has a phone service or not (Yes, No)
+- PhoneService: Whether the customer has a phone service or not (Yes, No)
 
-MultipleLines : Whether the customer has multiple lines or not (Yes, No, No phone service)
+- MultipleLines : Whether the customer has multiple lines or not (Yes, No, No phone service)
 
-InternetService :	Customer's internet service provider (DSL, Fiber optic, No)
+- InternetService :	Customer's internet service provider (DSL, Fiber optic, No)
 
-OnlineSecurity :	Whether the customer has online security or not (Yes, No, No internet service)
+- OnlineSecurity :	Whether the customer has online security or not (Yes, No, No internet service)
 
-OnlineBackup :	Whether the customer has online backup or not (Yes, No, No internet service)
+- OnlineBackup :	Whether the customer has online backup or not (Yes, No, No internet service)
 
-DeviceProtection :	Whether the customer has device protection or not (Yes, No, No internet service)
+- DeviceProtection :	Whether the customer has device protection or not (Yes, No, No internet service)
 
-TechSupport :	Whether the customer has tech support or not (Yes, No, No internet service)
+- TechSupport :	Whether the customer has tech support or not (Yes, No, No internet service)
 
-StreamingTV :	Whether the customer has streaming TV or not (Yes, No, No internet service)
+- StreamingTV :	Whether the customer has streaming TV or not (Yes, No, No internet service)
 
-StreamingMovies	: Whether the customer has streaming movies or not (Yes, No, No internet service)
+- StreamingMovies	: Whether the customer has streaming movies or not (Yes, No, No internet service)
 
-Contract :	The contract term of the customer (Month-to-month, One year, Two year)
+- Contract :	The contract term of the customer (Month-to-month, One year, Two year)
 
-PaperlessBilling :	Whether the customer has paperless billing or not (Yes, No)
+- PaperlessBilling :	Whether the customer has paperless billing or not (Yes, No)
 
-PaymentMethod :	The customer's payment method (Electronic check, Mailed check, Bank transfer, Credit card)
+- PaymentMethod :	The customer's payment method (Electronic check, Mailed check, Bank transfer, Credit card)
 
-MonthlyCharges :	The amount charged to the customer monthly
+- MonthlyCharges :	The amount charged to the customer monthly
 
-TotalCharges : The total amount charged to the customer
+- TotalCharges : The total amount charged to the customer
 
-Churn :	Whether the customer has churned or not (Yes or No)
+- Churn :	Whether the customer has churned or not (Yes or No)
